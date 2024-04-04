@@ -1,0 +1,14 @@
+E:\c#app1\c#app1\bin\Debug\c#app1.exe.config
+E:\c#app1\c#app1\bin\Debug\c#app1.exe
+E:\c#app1\c#app1\bin\Debug\c#app1.pdb
+E:\c#app1\c#app1\obj\Debug\c#app1.csproj.AssemblyReference.cache
+E:\c#app1\c#app1\obj\Debug\c#app1.csproj.CoreCompileInputs.cache
+E:\c#app1\c#app1\obj\Debug\c#app1.exe
+E:\c#app1\c#app1\obj\Debug\c#app1.pdb
+E:\c# all\c#app1\c#app1\bin\Debug\c#app1.exe.config
+E:\c# all\c#app1\c#app1\bin\Debug\c#app1.exe
+E:\c# all\c#app1\c#app1\bin\Debug\c#app1.pdb
+E:\c# all\c#app1\c#app1\obj\Debug\c#app1.csproj.AssemblyReference.cache
+E:\c# all\c#app1\c#app1\obj\Debug\c#app1.csproj.CoreCompileInputs.cache
+E:\c# all\c#app1\c#app1\obj\Debug\c#app1.exe
+E:\c# all\c#app1\c#app1\obj\Debug\c#app1.pdb
